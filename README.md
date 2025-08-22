@@ -50,6 +50,7 @@ Discount (10% above ₹1000, 15% above ₹2500)
 📩 Contact
 
 👨‍💻 Developed by Sheik Akshar
+
 🔗 LinkedIn: https://www.linkedin.com/in/akshar-sheik-8020662bb/
 
 📧 Email: aksharsheik@gmail.com
