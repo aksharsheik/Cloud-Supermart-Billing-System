@@ -54,3 +54,5 @@ Discount (10% above ₹1000, 15% above ₹2500)
 🔗 LinkedIn: https://www.linkedin.com/in/akshar-sheik-8020662bb/
 
 📧 Email: aksharsheik@gmail.com
+
+🔗 Live Web App:https://cloud-supermart-billing-system-hfyngy5s2vkjyeub8rtszl.streamlit.app/
